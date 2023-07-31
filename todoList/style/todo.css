@@ -1,0 +1,27 @@
+﻿body {    height: 106px;
+}
+div{    
+}
+.baslık {
+    /*background-color: blue;
+    position:absolute;*/
+    top: 20px;
+    left: 50px;
+}
+.baslık:hover {
+    /*background-color:beige;*/
+}
+.tarih {
+    margin: 5px;
+}
+.not {
+    margin:5px;
+   
+  
+   
+}
+
+
+.kaydet{
+    float:right;
+}
